@@ -12,6 +12,9 @@ html
 ::-webkit-scrollbar{
     display: none;
 }
+h1{
+    font: size 45px;
+}
 
 .webgl
 {
