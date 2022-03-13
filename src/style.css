@@ -9,6 +9,10 @@ html
     background: #1e1a20;
 }
 
+::-webkit-scrollbar{
+    display: none;
+}
+
 .webgl
 {
     position: fixed;
